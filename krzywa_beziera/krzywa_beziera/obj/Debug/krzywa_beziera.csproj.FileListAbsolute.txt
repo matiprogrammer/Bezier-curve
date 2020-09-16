@@ -1,0 +1,15 @@
+C:\Users\Mateusz\source\repos\krzywa_beziera\krzywa_beziera\bin\Debug\krzywa_beziera.exe.config
+C:\Users\Mateusz\source\repos\krzywa_beziera\krzywa_beziera\bin\Debug\krzywa_beziera.exe
+C:\Users\Mateusz\source\repos\krzywa_beziera\krzywa_beziera\bin\Debug\krzywa_beziera.pdb
+C:\Users\Mateusz\source\repos\krzywa_beziera\krzywa_beziera\obj\Debug\krzywa_beziera.csprojAssemblyReference.cache
+C:\Users\Mateusz\source\repos\krzywa_beziera\krzywa_beziera\obj\Debug\MainWindow.g.cs
+C:\Users\Mateusz\source\repos\krzywa_beziera\krzywa_beziera\obj\Debug\App.g.cs
+C:\Users\Mateusz\source\repos\krzywa_beziera\krzywa_beziera\obj\Debug\krzywa_beziera_MarkupCompile.cache
+C:\Users\Mateusz\source\repos\krzywa_beziera\krzywa_beziera\obj\Debug\krzywa_beziera_MarkupCompile.lref
+C:\Users\Mateusz\source\repos\krzywa_beziera\krzywa_beziera\obj\Debug\MainWindow.baml
+C:\Users\Mateusz\source\repos\krzywa_beziera\krzywa_beziera\obj\Debug\krzywa_beziera.g.resources
+C:\Users\Mateusz\source\repos\krzywa_beziera\krzywa_beziera\obj\Debug\krzywa_beziera.Properties.Resources.resources
+C:\Users\Mateusz\source\repos\krzywa_beziera\krzywa_beziera\obj\Debug\krzywa_beziera.csproj.GenerateResource.cache
+C:\Users\Mateusz\source\repos\krzywa_beziera\krzywa_beziera\obj\Debug\krzywa_beziera.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\krzywa_beziera\krzywa_beziera\obj\Debug\krzywa_beziera.exe
+C:\Users\Mateusz\source\repos\krzywa_beziera\krzywa_beziera\obj\Debug\krzywa_beziera.pdb
